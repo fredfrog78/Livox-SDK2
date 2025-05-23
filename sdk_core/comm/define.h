@@ -27,6 +27,7 @@
 
 #include <stdio.h>
 #include <string>
+#include <cstdint>
 #include <memory>
 #include <functional>
 #include <vector>
