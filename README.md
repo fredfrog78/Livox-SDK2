@@ -28,12 +28,12 @@ Livox SDK2 communication protocol opens to all users. It is the communication pr
 ## 2.1 Prerequisites
 
 * OS:
-  * Linux: Ubuntu 18.04 or above
+  * Linux: Ubuntu 18.04, 20.04, 22.04, 24.04
   * Windows 10 / 11
 
 * Tools:
-  * compilers that support C++11
-  * cmake 3.0+
+  * compilers that support C++17 (or C++11, C++14)
+  * cmake 3.16+
 
 * Arch:
   * x86
